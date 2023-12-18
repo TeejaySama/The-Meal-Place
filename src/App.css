@@ -1,0 +1,6 @@
+.hero-wrapper {
+    background-image: url('./assets/jennifer-schmidt-zOlQ7lF-3vs-unsplash.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 70vh;
+}
